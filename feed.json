@@ -1,0 +1,44 @@
+{
+  "providerName": "Deeper Than Journalism",
+  "lastUpdated": "2026-05-26T00:00:00Z",
+  "language": "en",
+  "series": [
+    {
+      "id": "deeper-than-journalism",
+      "title": "Deeper Than Journalism",
+      "shortDescription": "Hosted by Sergio Cruel, Deeper Than Journalism investigates missing persons cases, human trafficking, and public safety advocacy.",
+      "longDescription": "Deeper Than Journalism is an investigative documentary series hosted by Sergio Cruel. Each episode dives into missing persons cases, human trafficking networks, and public safety issues that mainstream media overlooks. Through interviews, on-the-ground reporting, and victim advocacy, Sergio brings urgency and humanity to stories that demand to be heard.",
+      "thumbnail": "https://YOUR-THUMBNAIL-URL-HERE/show-poster.jpg",
+      "genres": ["documentary", "news"],
+      "tags": ["missing persons", "human trafficking", "public safety", "true crime", "advocacy"],
+      "releaseDate": "2026-01-01",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "dtj-s01e01",
+              "title": "Episode 1 Title Here",
+              "shortDescription": "Short episode description here.",
+              "longDescription": "Full episode description here.",
+              "thumbnail": "https://YOUR-THUMBNAIL-URL-HERE/episode-1-thumb.jpg",
+              "releaseDate": "2026-01-01",
+              "content": {
+                "dateAdded": "2026-01-01T00:00:00Z",
+                "videos": [
+                  {
+                    "url": "https://YOUR-VIDEO-URL-HERE/episode-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1800,
+                "language": "en"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
